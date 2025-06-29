@@ -8,9 +8,10 @@ This project applies Convolutional Neural Networks (CNN) to detect COVID-19 from
 
 Here's what the interface looks like when deployed:
 
-![COVID-19 Detection App](./e2bc79e4-89e4-4414-8252-aff462539a43.png)
 
----
+
+---![Screenshot 2025-06-29 142134](https://github.com/user-attachments/assets/88b97a9d-8878-4d4f-b320-d51e67b00a8f)
+
 
 ## 📌 Project Overview
 
